@@ -1,4 +1,3 @@
-# 自己紹介
 ## AtCoder
 - koncha https://atcoder.jp/users/koncha
 
